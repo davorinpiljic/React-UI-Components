@@ -1,1 +1,44 @@
 /* All styles for your header Components live here */
+.header-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-left: 10px;
+  
+  }
+  
+  .header-title {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  h2 {
+    margin: 0;
+    padding: 0 5px 0 5px;
+    font-size: .9rem;
+  }
+
+  
+  h3 {
+    margin: 0;
+    padding: 0 5px 0 5px;
+    
+    font-size: 0.7rem;
+    color: gray;
+    text-decoration: none;
+  }
+
+  p {
+    margin: 0;
+    padding: 10px 5px 20px 5px;
+    color: black;
+    font-size: .9rem;
+  }
+
+  .thumbnail {
+    width: 100%;
+    max-height: 250px;
+    height: 100%;
+  }
+  

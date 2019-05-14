@@ -1,0 +1,9 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 20px 0 0 0;
+    color: gray;
+    opacity: .9;
+    margin-left: 65px;
+}

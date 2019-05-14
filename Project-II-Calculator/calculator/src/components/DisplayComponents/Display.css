@@ -1,0 +1,21 @@
+.Calc-display {
+    background-color: black;
+    height: 126px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 15px 0 0;
+}
+
+.display-func {
+    background-color: black;
+    color: white;
+
+}
+
+#display {
+    font-size: 4.6rem;
+    font-family: 'Roboto';
+}
